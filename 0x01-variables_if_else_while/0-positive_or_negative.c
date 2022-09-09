@@ -5,7 +5,7 @@
 /**
  * main - main function
  *
- * Description: 'Positive or Negative number Identifier
+ * Description: 'Positive, Zero or Negative number Identifier'
  *
  * Return: 0 (success)
  */
