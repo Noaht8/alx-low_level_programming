@@ -14,17 +14,18 @@ int main(void)
 
 	for (i = 1; i <= 98; i++)
 	{
+		next = t1 + t2;
+
 		if (i < 98)
 		{
 			printf("%lu, ", next);
-			t1 = t2;
-			t2 = next;
-			next = t1 + t2;
 		}
 		else
 		{
 			printf("%lu\n", next);
 		}
+		t1 = t2;
+		t2 = next;
 	}
 	return (0);
 }
