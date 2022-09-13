@@ -19,13 +19,13 @@ int main(void)
 		if (i < 98)
 		{
 			printf("%lu, ", next);
+			t1 = t2;
+			t2 = next;
 		}
 		else
 		{
 			printf("%lu\n", next);
 		}
-		t1 = t2;
-		t2 = next;
 	}
 	return (0);
 }
