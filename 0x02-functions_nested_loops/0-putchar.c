@@ -3,12 +3,12 @@
 
 /**
  * _putchar - writes the character a to stdout
- * @a: The character to print
+ * @c: The character to print
  *
  * Return: 1 (success)
  * On error, -1 is returned
  */
-int _putchar(char a)
+int _putchar(char c)
 {
-	return (write(1, &a, 1));
+	return (write(1, &c, 1));
 }
