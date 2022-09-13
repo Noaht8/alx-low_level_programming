@@ -9,23 +9,21 @@ int main(void)
 {
 	int i;
 
-	int t1 = 1, t2 = 2;
-	int next = t1 + t2;
+	long int t1 = 0, t2 = 1;
+	long int next = t1 + t2;
 
-	printf("1, 2,\n");
-
-	for (i = 1; i <= 48; i++)
+	for (i = 1; i <= 50; i++)
 	{
-		if (i < 48)
+		if (i < 50)
 		{
-			printf("%d, ", next);
+			printf("%lu, ", next);
 			t1 = t2;
 			t2 = next;
 			next = t1 + t2;
 		}
 		else
 		{
-			printf("%d\n", next);
+			printf("%lu\n", next);
 		}
 	}
 	return (0);
