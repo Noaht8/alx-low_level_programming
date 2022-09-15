@@ -9,9 +9,9 @@ int main(void)
 {
 	int a;
 
-	for (a = 1; a <= 100; a++)
+	for (a = 1; a < 100; a++)
 	{
-		if ((a % 3 == 0) && (a % 5 == 0))
+		if (a % 15 == 0)
 		{
 			printf("FizzBuzz ");
 		}
@@ -28,6 +28,7 @@ int main(void)
 			printf("%d ", a);
 		}
 	}
+	printf("Buzz");
 	printf("\n");
 	return (0);
 }
