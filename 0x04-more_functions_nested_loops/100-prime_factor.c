@@ -6,19 +6,16 @@
  */
 int main(void)
 {
-	long int n;
+	long int n, d, maxF;
 
 	n = 612852475143;
-
-	long int d = 2;
-	long int a = 2;
-	long int maxFact;
+	d = 2;
 
 	while (n != 0)
 	{
 		if (n % d != 0)
 		{
-			d += 1;
+			d = d + 1;
 		}
 		else
 		{
@@ -26,8 +23,7 @@ int main(void)
 			n = n / d;
 			if (n == 1)
 			{
-				printf("%d\n", maxF);
-				a = 1;
+				printf("%ld\n", maxF);
 				break;
 			}
 		}
