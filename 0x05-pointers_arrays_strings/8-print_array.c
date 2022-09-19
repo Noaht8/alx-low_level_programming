@@ -11,7 +11,7 @@ void print_array(int *a, int n)
 {
 	int c;
 
-	if (n != 0 && n!= 1)
+	if (n != 0 && n != 1)
 	{
 		for (c = 0; c < n; c++)
 		{
