@@ -4,7 +4,7 @@
  * main - function that prints name
  * @argc: Argument Count
  * @argv: Array of pointers to the Argument
- * Return: 1
+ * Return: 0
  */
 int main(int argc, char *argv[])
 {
