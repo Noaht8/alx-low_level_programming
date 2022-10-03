@@ -3,6 +3,7 @@
 
 int Rec_WordCounter(char *str, int i);
 int WordCounter(char *str);
+char **strtow(char *str);
 
 /**
  * Rec_WordCounter - count number of words recursively
