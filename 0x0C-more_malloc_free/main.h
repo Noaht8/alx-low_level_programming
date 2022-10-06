@@ -9,10 +9,11 @@ void *_calloc(unsigned int nmemb, unsigned int size);
 int *array_range(int min, int max);
 void *_realloc(void *ptr, unsigned int old_size, unsigned int new_size);
 int _putchar(char c);
-int find_len(char *str);
-char *create_xarray(int size);
-char *iterate_zeroes(char *str);
-void get_prod(char *prod, char *mult, int digit, int zeroes);
-void add_nums(char *final_prod, char *next_prod, int next_len);
+int _strlen(char *s);
+char *xarray(int size);
+char *_zero_iteration(char *s);
+int convert_to_digit(char s);
+void _product(char *prod, char *mul, int digit, int zeroes);
+void nums_add(char *final_prod, char *next_prod, int next_len);
 
 #endif /*MAIN_H*/
