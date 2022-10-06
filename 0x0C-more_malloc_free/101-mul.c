@@ -10,7 +10,7 @@ void _product(char *prod, char *mul, int digit, int zeroes);
 void nums_add(char *final_prod, char *next_prod, int next_len);
 
 /**
- *_strlen - length of string
+ *_strlen - Function to get length of string
  *
  *@s:string
  *
