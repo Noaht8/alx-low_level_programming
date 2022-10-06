@@ -128,7 +128,7 @@ void _product(char *prod, char *mul, int digit, int zeroes)
 	}
 }
 /**
- *nums_add - adds numbers stored in two strings
+ *nums_add - Function that adds numbers stored in two strings
  *
  *@final_prod:final product buffer
  *@next_prod :next product to be added
