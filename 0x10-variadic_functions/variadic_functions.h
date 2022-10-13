@@ -10,4 +10,15 @@ void print_numbers(const char *separator, const unsigned int n, ...);
 void print_strings(const char *separator, const unsigned int n, ...);
 void print_all(const char * const format, ...);
 
+/**
+ * struct checker - Struct operators
+ * @type: char
+ * @f: The Function Associated
+ */
+typedef struct checker
+{
+	char *type;
+	void (*f)();
+} checker;
+
 #endif /* VARIADIC_FUNCTIONS_H */
