@@ -2,7 +2,7 @@
 #include <unistd.h>
 #include <string.h>
 
-int random()
+int rand()
 {
 	static int ct = -1;
 
