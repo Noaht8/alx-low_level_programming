@@ -2,7 +2,7 @@
 /**
  * main - Entry point
  *
- * Description: 'program for puts'
+ * Description: 'A program for puts'
  *
  * Return: Always 0 (Success)
  */
