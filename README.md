@@ -1,4 +1,4 @@
-# Lower Level Programming
+# Low Level Programming
 
 ![Image link]()
 
