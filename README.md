@@ -1,6 +1,6 @@
 # Low Level Programming
 
-![Image link](https://icongr.am/devicon/c-original.svg?size=400&color=currentColor)
+![Image link](https://icongr.am/devicon/c-original.svg?size=300&color=Red)
 
 
 ## Author:
