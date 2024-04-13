@@ -5,7 +5,7 @@
 /**
  * main - main function
  *
- * Description: 'Identify last digit'
+ * Description: 'Identify last digit of number'
  *
  * Return: 0 (success)
  */
