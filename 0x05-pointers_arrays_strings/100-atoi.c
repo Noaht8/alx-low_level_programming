@@ -20,10 +20,6 @@ int _atoi(char *s)
       sign *= -1;
       i++;
     }
-    else if (s[i] == '+')
-    {
-      i++;
-    }
 
     if (s[i] >= '0' && s[i] <= '9')
     {
