@@ -10,6 +10,16 @@ ___
 
 This directory contains the following files:
 
+[0-preprocessor](0-preprocessor)
+[1-compiler](1-compiler)
+[2-assembler](2-assembler)
+[3-name](3-name)
+[4-puts.c](4-puts.c)
+[5-printf.c](5-printf.c)
+[6-size.c](6-size.c)
+[100-intel](100-intel)
+[101-quote.c](101-quote.c)
+
 |File| Description|
 |:-------|:-------|
 |[0-preprocessor](0-preprocessor)| A script that runs a C file through the preprocessor and save the result into another file<br>- The C file name will be saved in the variable `$CFILE`<br>- The output will be saved in the file `c`|
