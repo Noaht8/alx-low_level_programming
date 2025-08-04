@@ -3,7 +3,7 @@
 ![Image link](https://icongr.am/devicon/c-original.svg?size=200&color=currentColor)
 
 ## Author:
-* **Noah Tsegay** <[Noaht8](https://github.com/Noaht8)>  &#128511;
+* **Noah Tsegay** <[Noaht8](https://github.com/Noaht8)>  😎;
 
 ## Directory Contents
 ___
