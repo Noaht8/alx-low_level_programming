@@ -121,3 +121,4 @@ julien@ubuntu:~/0x01$ ./1-last_digit
 Last digit of 809065140 is 0 and is 0
 julien@ubuntu:~/0x01$
 ```
+## [2-print_alphabet.c](2-print_alphabet.c)
