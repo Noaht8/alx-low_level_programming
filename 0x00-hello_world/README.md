@@ -1,6 +1,6 @@
 # 0x00. C - Hello, World
 
-![Image link](https://icongr.am/devicon/c-original.svg?size=200&color=currentColor)
+![Image link](../c-original.svg)
 
 ## Author:
 * **Noah Tsegay** <[Noaht8](https://github.com/Noaht8)>  😎;
