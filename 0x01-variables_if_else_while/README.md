@@ -133,3 +133,15 @@ julien@ubuntu:~/0x01$ ./2-print_alphabet
 abcdefghijklmnopqrstuvwxyz
 julien@ubuntu:~/0x01$
 ```
+## [3-print_alphabets.c](3-print_alphabets.c)
+Write a program that prints the alphabet in lowercase, and then in uppercase, followed by a new line.
+
+- You can only use the `putchar` function (every other function (`printf`, `puts`, etc…) is forbidden)
+- All your code should be in the `main` function
+- You can only use `putchar` three times in your code
+```
+julien@ubuntu:~/0x01$ gcc -Wall -pedantic -Werror -Wextra -std=gnu89 3-print_alphabets.c -o 3-print_alphabets
+julien@ubuntu:~/0x01$ ./3-print_alphabets | cat -e
+abcdefghijklmnopqrstuvwxyzABCDEFGHIJKLMNOPQRSTUVWXYZ$
+julien@ubuntu:~/0x01$
+```
