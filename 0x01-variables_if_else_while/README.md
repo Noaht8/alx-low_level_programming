@@ -1,6 +1,6 @@
 # 0x01. C - Variables, if, else, while
 
-![Image link]()
+![Image link](c-original.svg)
 
 ## Author:
 * **Noah Tsegay** <[Noaht8](https://github.com/Noaht8)>  😎
