@@ -169,3 +169,4 @@ julien@ubuntu:~/0x01$ ./5-print_numbers
 0123456789
 julien@ubuntu:~/0x01$
 ```
+## [6-print_numberz.c](6-print_numberz.c)
