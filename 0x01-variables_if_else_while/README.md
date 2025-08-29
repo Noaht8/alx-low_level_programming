@@ -194,3 +194,4 @@ julien@ubuntu:~/0x01$ ./7-print_tebahpla
 zyxwvutsrqponmlkjihgfedcba
 julien@ubuntu:~/0x01$
 ```
+## [8-print_base16.c](8-print_base16.c)
