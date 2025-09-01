@@ -10,5 +10,3 @@ ___
 
 This directory contains the following files:
 
-|File| Description|
-|:-------|:-------|
