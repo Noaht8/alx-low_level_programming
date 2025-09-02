@@ -44,3 +44,4 @@ julien@ubuntu:~/0x02$ ./1-alphabet
 abcdefghijklmnopqrstuvwxyz
 julien@ubuntu:~/0x02$
 ```
+## [2-print_alphabet_x10.c](2-print_alphabet_x10.c)
