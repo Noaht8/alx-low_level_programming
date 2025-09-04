@@ -237,3 +237,4 @@ julien@ubuntu:~/0x02$ ./6-abs
 98
 julien@ubuntu:~/0x02$
 ```
+## [7-print_last_digit.c](7-print_last_digit.c)
