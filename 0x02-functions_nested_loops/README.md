@@ -313,3 +313,4 @@ julien@ubuntu:~/0x02$ ./8-24 | wc -l
 1440
 julien@ubuntu:~/0x02$
 ```
+## [9-times_table.c](9-times_table.c)
