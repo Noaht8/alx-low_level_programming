@@ -267,3 +267,4 @@ julien@ubuntu:~/0x02$ ./7-last_digit
 8044
 julien@ubuntu:~/0x02$
 ```
+## [8-24_hours.c](8-24_hours.c)
