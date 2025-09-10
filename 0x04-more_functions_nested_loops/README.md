@@ -104,3 +104,4 @@ julien@ubuntu:~/0x04$ ./2-mul
 -1646592
 julien@ubuntu:~/0x04$
 ```
+## [3-print_numbers.c](3-print_numbers.c)
