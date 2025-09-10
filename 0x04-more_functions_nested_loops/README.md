@@ -78,3 +78,4 @@ julien@ubuntu:~/0x04$ ./1-isdigit
 a: 0
 julien@ubuntu:~/0x04$
 ```
+## [2-mul.c](2-mul.c)
