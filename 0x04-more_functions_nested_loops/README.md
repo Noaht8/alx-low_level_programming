@@ -10,5 +10,4 @@ ___
 
 This directory contains the following files:
 
-|File| Description|
-|:-------|:-------|
+## [0-isupper.c](0-isupper.c)
