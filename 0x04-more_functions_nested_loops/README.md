@@ -186,3 +186,4 @@ julien@ubuntu:~/0x04$ ./5-more_numbers
 01234567891011121314
 julien@ubuntu:~/0x04
 ```
+## [6-print_line.c](6-print_line.c)
