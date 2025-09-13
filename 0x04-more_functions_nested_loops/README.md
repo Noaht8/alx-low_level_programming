@@ -304,3 +304,4 @@ julien@ubuntu:~/0x04$ ./8-squares
 
 julien@ubuntu:~/0x04$ 
 ```
+## [9-fizz_buzz.c](9-fizz_buzz.c)
