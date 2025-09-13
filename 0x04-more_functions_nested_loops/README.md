@@ -219,3 +219,4 @@ __________$
 $
 julien@ubuntu:~/0x04$
 ```
+## [7-print_diagonal.c](7-print_diagonal.c)
