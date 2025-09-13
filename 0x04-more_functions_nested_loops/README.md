@@ -262,3 +262,4 @@ $
 $
 julien@ubuntu:~/0x04$
 ```
+## [8-print_square.c](8-print_square.c)
