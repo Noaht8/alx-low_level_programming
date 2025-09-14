@@ -375,3 +375,4 @@ julien@ubuntu:~/0x04$ ./10-triangles | tr ' ' . | cat -e
 $
 julien@ubuntu:~/0x04$
 ```
+## [100-prime_factor.c](100-prime_factor.c)
