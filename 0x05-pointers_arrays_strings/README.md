@@ -72,3 +72,4 @@ a=98, b=42
 a=42, b=98
 julien@ubuntu:~/0x05$
 ```
+## [2-strlen.c](2-strlen.c)
