@@ -103,3 +103,4 @@ julien@ubuntu:~/0x05$ ./2-strlen
 16
 julien@ubuntu:~/0x05$
 ```
+## [3-puts.c](3-puts.c)
