@@ -76,7 +76,7 @@ julien@ubuntu:~/0x05$
 Write a function that returns the length of a string.
 
 - Prototype: `int _strlen(char *s);`
-- 
+
 FYI: The standard library provides a similar function: `strlen`. Run `man strlen` to learn more.
 ```
 julien@ubuntu:~/0x05$ cat 2-main.c
