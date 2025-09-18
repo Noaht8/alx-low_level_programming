@@ -131,3 +131,4 @@ julien@ubuntu:~/0x05$ ./3-puts
 I do not fear computers. I fear the lack of them - Isaac Asimov
 julien@ubuntu:~/0x05$
 ```
+## [4-print_rev.c](4-print_rev.c)
