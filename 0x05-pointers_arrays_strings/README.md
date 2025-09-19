@@ -186,3 +186,4 @@ My School
 loohcS yM
 julien@ubuntu:~/0x05$
 ```
+## [6-puts2.c](6-puts2.c)
