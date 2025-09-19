@@ -212,3 +212,4 @@ julien@ubuntu:~/0x05$ ./6-puts2
 02468
 julien@ubuntu:~/0x05$
 ```
+## [7-puts_half.c](7-puts_half.c)
