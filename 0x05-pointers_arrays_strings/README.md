@@ -241,13 +241,14 @@ julien@ubuntu:~/0x05$ ./7-puts_half
 julien@ubuntu:~/0x05$
 ```
 ## [8-print_array.c](8-print_array.c)
-Write a function that prints n elements of an array of integers, followed by a new line.
+Write a function that prints `n` elements of an array of integers, followed by a new line.
 
-Prototype: void print_array(int *a, int n);
-where n is the number of elements of the array to be printed
-Numbers must be separated by comma, followed by a space
-The numbers should be displayed in the same order as they are stored in the array
-You are allowed to use printf
+- Prototype: `void print_array(int *a, int n);`
+- where `n` is the number of elements of the array to be printed
+- Numbers must be separated by comma, followed by a space
+- The numbers should be displayed in the same order as they are stored in the array
+- You are allowed to use `printf`
+```
 julien@ubuntu:~/0x05$ cat 8-main.c
 #include "main.h"
 
@@ -272,3 +273,4 @@ julien@ubuntu:~/0x05$ gcc -Wall -pedantic -Werror -Wextra -std=gnu89 8-main.c 8-
 julien@ubuntu:~/0x05$ ./8-print_array 
 98, 402, -198, 298, -1024
 julien@ubuntu:~/0x05$
+```
