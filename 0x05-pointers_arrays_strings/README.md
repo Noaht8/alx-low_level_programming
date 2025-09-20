@@ -240,3 +240,4 @@ julien@ubuntu:~/0x05$ ./7-puts_half
 56789
 julien@ubuntu:~/0x05$
 ```
+## [8-print_array.c](8-print_array.c)
