@@ -274,3 +274,4 @@ julien@ubuntu:~/0x05$ ./8-print_array
 98, 402, -198, 298, -1024
 julien@ubuntu:~/0x05$
 ```
+## [9-strcpy.c](9-strcpy.c)
