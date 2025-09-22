@@ -320,7 +320,7 @@ You are not allowed to declare new variables of “type” array
 You are not allowed to hard-code special values
 We will use the -fsanitize=signed-integer-overflow gcc flag to compile your code.
 FYI: The standard library provides a similar function: atoi. Run man atoi to learn more.
-
+```
 julien@ubuntu:~/0x05$ cat 100-main.c
 #include "main.h"
 #include <stdio.h>
@@ -363,3 +363,4 @@ julien@ubuntu:~/0x05$ ./100-atoi
 98
 402
 julien@ubuntu:~/0x05$ 
+```
