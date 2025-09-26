@@ -101,3 +101,4 @@ World!
 Hello WWorld!
 julien@ubuntu:~/0x06$ 
 ```
+## [2-strncpy.c](2-strncpy.c)
