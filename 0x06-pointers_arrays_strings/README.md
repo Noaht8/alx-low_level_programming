@@ -51,3 +51,4 @@ World!
 Hello World!
 julien@ubuntu:~/0x06$
 ```
+## [1-strncat.c](1-strncat.c)
