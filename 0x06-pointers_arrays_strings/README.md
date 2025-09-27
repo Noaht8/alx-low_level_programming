@@ -173,10 +173,11 @@ julien@ubuntu:~/0x06$
 ## [3-strcmp.c](3-strcmp.c)
 Write a function that compares two strings.
 
-Prototype: int _strcmp(char *s1, char *s2);
-Your function should work exactly like strcmp
-FYI: The standard library provides a similar function: strcmp. Run man strcmp to learn more.
+- Prototype: `int _strcmp(char *s1, char *s2);`
+- Your function should work exactly like `strcmp`
 
+FYI: The standard library provides a similar function: `strcmp`. Run `man strcmp` to learn more.
+```
 julien@ubuntu:~/0x06$ cat 3-main.c
 #include "main.h"
 #include <stdio.h>
@@ -201,4 +202,5 @@ julien@ubuntu:~/0x06$ ./3-strcmp
 -15
 15
 0
-julien@ubuntu:~/0x06$ 
+julien@ubuntu:~/0x06$
+```
