@@ -204,3 +204,4 @@ julien@ubuntu:~/0x06$ ./3-strcmp
 0
 julien@ubuntu:~/0x06$
 ```
+## [4-rev_array.c](4-rev_array.c)
