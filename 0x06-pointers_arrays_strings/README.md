@@ -258,3 +258,4 @@ julien@ubuntu:~/0x06$ ./4-rev_array
 1337, 1024, 98, 9, 8, 7, 6, 5, 4, 3, 2, 1, 0
 julien@ubuntu:~/0x06$
 ```
+## [5-string_toupper.c](5-string_toupper.c)
