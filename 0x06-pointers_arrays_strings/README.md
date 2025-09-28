@@ -291,8 +291,8 @@ julien@ubuntu:~/0x06$
 ## [6-cap_string.c](6-cap_string.c)
 Write a function that capitalizes all words of a string.
 
-Prototype: `char *cap_string(char *);`
-Separators of words: space, tabulation, new line, `,`, `;`, `.`, `!`, `?`, `"`, `(`, `)`, `{`, and `}`
+- Prototype: `char *cap_string(char *);`
+- Separators of words: space, tabulation, new line, `,`, `;`, `.`, `!`, `?`, `"`, `(`, `)`, `{`, and `}`
 ```
 julien@ubuntu:~/0x06$ cat 6-main.c
 #include "main.h"
