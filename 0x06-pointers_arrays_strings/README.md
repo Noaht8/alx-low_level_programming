@@ -288,3 +288,4 @@ LOOK UP!
 LOOK UP!
 julien@ubuntu:~/0x06$
 ```
+## [6-cap_string.c](6-cap_string.c)
