@@ -322,6 +322,7 @@ Hello World! Hello-world 0123456hello World Hello World.Hello World
 julien@ubuntu:~/0x06$
 ```
 ## [7-leet.c](7-leet.c)
+
 Write a function that encodes a string into [1337](https://en.wikipedia.org/wiki/Leet).
 
 - Letters `a` and `A` should be replaced by `4`
