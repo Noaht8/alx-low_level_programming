@@ -455,3 +455,4 @@ julien@ubuntu:~/0x06$ ./101-print_numbers
 -98
 julien@ubuntu:~/0x06$
 ```
+## [102-magic.c](102-magic.c)
