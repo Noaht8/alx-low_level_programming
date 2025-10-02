@@ -470,15 +470,15 @@ Add one line to [this code](https://github.com/alx-tools/make_magic_happen/blob/
 ## [103-infinite_add.c](103-infinite_add.c)
 Write a function that adds two numbers.
 
-Prototype: char *infinite_add(char *n1, char *n2, char *r, int size_r);
-Where n1 and n2 are the two numbers
-r is the buffer that the function will use to store the result
-size_r is the buffer size
-The function returns a pointer to the result
-You can assume that you will always get positive numbers, or 0
-You can assume that there will be only digits in the strings n1 and n2
-n1 and n2 will never be empty
-If the result can not be stored in r the function must return 0
+- Prototype: `char *infinite_add(char *n1, char *n2, char *r, int size_r);`
+- Where `n1` and `n2` are the two numbers
+- `r` is the buffer that the function will use to store the result
+- `size_r` is the buffer size
+- The function returns a pointer to the result
+- You can assume that you will always get positive numbers, or `0`
+- You can assume that there will be only digits in the strings `n1` and `n2`
+- `n1` and `n2` will never be empty
+- If the result can not be stored in `r` the function must return `0`
 ```
 julien@ubuntu:~/0x06$ cat 103-main.c
 #include "main.h"
