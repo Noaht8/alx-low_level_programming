@@ -273,3 +273,4 @@ julien@ubuntu:~/0x07$ ./4-strpbrk
 llo, world
 julien@ubuntu:~/0x07$
 ```
+## [5-strstr.c](5-strstr.c)
