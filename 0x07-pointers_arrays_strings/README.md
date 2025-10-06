@@ -347,3 +347,4 @@ PPPPPPPP
 RKBQKBKR
 julien@ubuntu:~/0x07$ 
 ```
+## [8-print_diagsums.c](8-print_diagsums.c)
