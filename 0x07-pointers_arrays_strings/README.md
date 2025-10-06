@@ -306,3 +306,4 @@ julien@ubuntu:~/0x07$ ./5-strstr
 world
 julien@ubuntu:~/0x07$
 ```
+## [7-print_chessboard.c](7-print_chessboard.c)
