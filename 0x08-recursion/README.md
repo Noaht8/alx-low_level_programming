@@ -35,3 +35,4 @@ julien@ubuntu:~/0x08. Recursion$ ./0-puts_recursion
 Puts with recursion
 julien@ubuntu:~/0x08. Recursion$
 ```
+## [1-print_rev_recursion.c](1-print_rev_recursion.c)
