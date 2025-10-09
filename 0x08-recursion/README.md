@@ -87,3 +87,4 @@ julien@ubuntu:~/0x08. Recursion$ ./2-strlen_recursion
 14
 julien@ubuntu:~/0x08. Recursion$
 ```
+## [3-factorial.c](3-factorial.c)
