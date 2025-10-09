@@ -58,3 +58,4 @@ julien@ubuntu:~/0x08. Recursion$ ./1-print_rev_recursion
 reklaW notloC
 julien@ubuntu:~/0x08. Recursion$
 ```
+## [2-strlen_recursion.c](2-strlen_recursion.c)
