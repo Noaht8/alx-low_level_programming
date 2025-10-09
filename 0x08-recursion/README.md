@@ -125,3 +125,4 @@ julien@ubuntu:~/0x08. Recursion$ ./3-factorial
 -1
 julien@ubuntu:~/0x08. Recursion$
 ```
+## [4-pow_recursion.c](4-pow_recursion.c)
