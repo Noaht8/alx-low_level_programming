@@ -214,3 +214,4 @@ julien@ubuntu:~/0x08. Recursion$ ./5-sqrt
 -1
 julien@ubuntu:~/0x08. Recursion$
 ```
+## [6-is_prime_number.c](6-is_prime_number.c)
