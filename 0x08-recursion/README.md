@@ -262,3 +262,5 @@ julien@ubuntu:~/0x08. Recursion$ ./6-prime
 1
 julien@ubuntu:~/0x08. Recursion$
 ```
+## [100-is_palindrome.c](100-is_palindrome.c)
+
