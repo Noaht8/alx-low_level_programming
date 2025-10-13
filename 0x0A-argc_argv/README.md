@@ -7,3 +7,6 @@
 
 ## Directory Contents
 ___
+
+This directory contains the following files:
+
