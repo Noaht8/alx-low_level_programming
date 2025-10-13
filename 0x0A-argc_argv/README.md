@@ -25,3 +25,18 @@ julien@ubuntu:~/0x0A. argc, argv$ ./mynewnameis
 julien@ubuntu:~/0x0A. argc, argv$ 
 ```
 ## [1-args.c](1-args.c)
+Write a program that prints the number of arguments passed into it.
+
+- Your program should print a number, followed by a new line
+```
+julien@ubuntu:~/0x0A. argc, argv$ gcc -Wall -pedantic -Werror -Wextra -std=gnu89 1-args.c -o nargs
+julien@ubuntu:~/0x0A. argc, argv$ ./nargs 
+0
+julien@ubuntu:~/0x0A. argc, argv$ ./nargs hello
+1
+julien@ubuntu:~/0x0A. argc, argv$ ./nargs "hello, world"
+1
+julien@ubuntu:~/0x0A. argc, argv$ ./nargs hello, world
+2
+julien@ubuntu:~/0x0A. argc, argv$ 
+```
