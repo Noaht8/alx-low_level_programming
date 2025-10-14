@@ -60,3 +60,4 @@ not
 everything.
 julien@ubuntu:~/0x0A. argc, argv$ 
 ```
+## [3-mul.c](3-mul.c)
