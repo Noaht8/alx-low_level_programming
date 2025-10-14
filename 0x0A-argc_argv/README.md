@@ -65,7 +65,7 @@ Write a program that multiplies two numbers.
 
 - Your program should print the result of the multiplication, followed by a new line
 - You can assume that the two numbers and result of the multiplication can be stored in an integer
-- If the program does not receive two arguments, your program should print `Error`, followed by a new line, and return 1
+- If the program does not receive two arguments, your program should print `Error`, followed by a new line, and return `1`
 ```
 julien@ubuntu:~/0x0A. argc, argv$ gcc -Wall -pedantic -Werror -Wextra -std=gnu89 3-mul.c -o mul
 julien@ubuntu:~/0x0A. argc, argv$ ./mul 2 3
@@ -81,3 +81,21 @@ Error
 julien@ubuntu:~/0x0A. argc, argv$ 
 ```
 ## [4-add.c](4-add.c)
+Write a program that adds positive numbers.
+
+Print the result, followed by a new line
+If no number is passed to the program, print `0`, followed by a new line
+If one of the number contains symbols that are not digits, print `Error`, followed by a new line, and return `1`
+You can assume that numbers and the addition of all the numbers can be stored in an `int`
+```
+julien@ubuntu:~/0x0A. argc, argv$ gcc -Wall -pedantic -Werror -Wextra -std=gnu89 4-add.c -o add
+julien@ubuntu:~/0x0A. argc, argv$ ./add 1 1
+2
+julien@ubuntu:~/0x0A. argc, argv$ ./add 1 10 100 1000
+1111
+julien@ubuntu:~/0x0A. argc, argv$ ./add 1 2 3 e 4 5
+Error
+julien@ubuntu:~/0x0A. argc, argv$ ./add
+0
+julien@ubuntu:~/0x0A. argc, argv$ 
+```
