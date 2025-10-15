@@ -1,5 +1,12 @@
-# C - malloc, free
+## 0x0B. C - malloc, free
 
+![Image link]()
+
+## Author:
+* **Noah Tsegay** <[Noaht8](https://github.com/Noaht8)>  😎
+
+## Directory Contents
+___
 
 ## [0-create_array.c](0-create_array.c)
 Write a function that creates an array of chars, and initializes it with a specific char.
