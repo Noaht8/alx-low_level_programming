@@ -120,3 +120,4 @@ julien@ubuntu:~/0x0a. malloc, free$ ./s
 ALX SE
 julien@ubuntu:~/0x0a. malloc, free$
 ```
+## [2-str_concat.c](2-str_concat.c)
