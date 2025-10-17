@@ -157,3 +157,4 @@ julien@ubuntu:~/c/curriculum_by_julien/alxl-low_level_programming/0x0a. malloc, 
 Betty ALX$
 julien@ubuntu:~/c/curriculum_by_julien/alx-low_level_programming/0x0a. malloc, free$
 ```
+## [3-alloc_grid.c](3-alloc_grid.c)
