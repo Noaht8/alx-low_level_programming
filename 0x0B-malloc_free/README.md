@@ -231,3 +231,4 @@ julien@ubuntu:~/0x0a. malloc, free$ ./g
 0 0 0 0 402 0 
 julien@ubuntu:~/0x0a. malloc, free$
 ```
+## [4-free_grid.c](4-free_grid.c)
