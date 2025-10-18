@@ -232,7 +232,7 @@ julien@ubuntu:~/0x0a. malloc, free$ ./g
 julien@ubuntu:~/0x0a. malloc, free$
 ```
 ## [4-free_grid.c](4-free_grid.c)
-Write a function that frees a 2 dimensional grid previously created by your alloc_grid function.
+Write a function that frees a 2 dimensional grid previously created by your `alloc_grid` function.
 
 - Prototype: `void free_grid(int **grid, int height);`
 - Note that we will compile with your `alloc_grid.c` file. Make sure it compiles.
@@ -318,3 +318,4 @@ julien@ubuntu:~/0x0a. malloc, free$ valgrind ./f
 ==5013== ERROR SUMMARY: 0 errors from 0 contexts (suppressed: 0 from 0)
 julien@ubuntu:~/0x0a. malloc, free$ 
 ```
+## [100-argstostr.c](100-argstostr.c)
