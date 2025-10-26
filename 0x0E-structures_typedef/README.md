@@ -39,3 +39,4 @@ julien@ubuntu:~/0x0d. structures, typedef$ ./a
 My name is Poppy, and I am 3.5 :) - Woof!
 julien@ubuntu:~/0x0d. structures, typedef$
 ```
+## [1-init_dog.c](1-init_dog.c)
