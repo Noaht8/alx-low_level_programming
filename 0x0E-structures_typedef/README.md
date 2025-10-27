@@ -157,3 +157,4 @@ julien@ubuntu:~/0x0d. structures, typedef$ ./e
 My name is Poppy, and I am 3.5 :) - Woof!
 julien@ubuntu:~/0x0d. structures, typedef$
 ```
+## [5-free_dog.c](5-free_dog.c)
