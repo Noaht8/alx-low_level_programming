@@ -205,3 +205,4 @@ julien@ubuntu:~/0x0e. Function pointers$ ./c
 2
 julien@ubuntu:~/0x0e. Function pointers$
 ```
+## [3-main.c](3-main.c), [3-op_functions.c](3-op_functions.c), [3-get_op_func.c](3-get_op_func.c), [3-calc.h](3-calc.h)
