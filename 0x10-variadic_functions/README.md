@@ -39,3 +39,4 @@ julien@ubuntu:~/0x0f. variadic functions$ ./a
 500
 julien@ubuntu:~/0x0f. variadic functions$
 ```
+## [1-print_numbers.c](1-print_numbers.c)
