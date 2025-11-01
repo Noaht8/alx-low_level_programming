@@ -96,3 +96,4 @@ julien@ubuntu:~/0x0f. Variadic functions$ ./c
 Jay, Django
 julien@ubuntu:~/0x0f. Variadic functions$
 ```
+## [3-print_all.c](3-print_all.c)
