@@ -67,3 +67,4 @@ julien@ubuntu:~/0x0f. variadic functions$ ./b
 0, 98, -1024, 402
 julien@ubuntu:~/0x0f. variadic functions$
 ```
+## [2-print_strings.c](2-print_strings.c)
