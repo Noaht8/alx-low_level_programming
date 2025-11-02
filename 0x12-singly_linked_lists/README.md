@@ -25,3 +25,5 @@ typedef struct list_s
 ```
 ## Directory Contents
 ___
+
+## [0-print_list.c](0-print_list.c)
