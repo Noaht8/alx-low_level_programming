@@ -132,3 +132,4 @@ julien@ubuntu:~/0x12. Singly linked lists$ ./b
 -> 2 elements
 julien@ubuntu:~/0x12. Singly linked lists$
 ```
+## [2-add_node.c](2-add_node.c)
