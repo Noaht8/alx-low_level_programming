@@ -87,3 +87,4 @@ julien@ubuntu:~/0x12. Singly linked lists$ ./a
 -> 2 elements
 julien@ubuntu:~/0x12. Singly linked lists$ 
 ```
+## [1-list_len.c](1-list_len.c)
