@@ -306,3 +306,4 @@ julien@ubuntu:~/0x12. Singly linked lists$ ./d
 [6] Walton
 julien@ubuntu:~/0x12. Singly linked lists$
 ```
+## [4-free_list.c](4-free_list.c)
