@@ -386,3 +386,14 @@ I bore my house upon my back!
 julien@ubuntu:~/$
 ```
 ## [101-hello_alx.asm](101-hello_alx.asm)
+Write a 64-bit program in assembly that prints `Hello, ALX`, followed by a new line.
+
+- You are only allowed to use the `printf` function
+- You are not allowed to use interrupts
+- Your program will be compiled using `nasm` and `gcc`:
+```
+julien@ubuntu:~/$ nasm -f elf64 101-hello_alx.asm && gcc -no-pie -std=gnu89 101-hello_alx.o -o hello
+julien@ubuntu:~/$ ./hello 
+Hello, ALX
+julien@ubuntu:~/$ 
+```
