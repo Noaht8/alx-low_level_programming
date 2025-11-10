@@ -206,7 +206,7 @@ julien@ubuntu:~/0x13. More singly linked lists$
 ## [4-free_listint.c](4-free_listint.c)
 Write a function that frees a `listint_t` list.
 
-Prototype: `void free_listint(listint_t *head);`
+- Prototype: `void free_listint(listint_t *head);`
 ```
 julien@ubuntu:~/0x13. More singly linked lists$ cat 4-main.c 
 #include <stdlib.h>
