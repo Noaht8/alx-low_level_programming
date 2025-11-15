@@ -571,3 +571,4 @@ julien@ubuntu:~/0x13. More singly linked lists$ ./j
 1024
 julien@ubuntu:~/0x13. More singly linked lists$ 
 ```
+## [10-delete_nodeint.c](10-delete_nodeint.c)
