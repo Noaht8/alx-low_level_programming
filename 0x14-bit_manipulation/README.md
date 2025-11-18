@@ -18,6 +18,7 @@ Write a function that converts a binary number to an `unsigned int`.
 - Return: the converted number, or 0 if
   - there is one or more chars in the string `b` that is not `0` or `1`
   - `b` is `NULL`
+```
 julien@ubuntu:~/0x14. Binary$ cat 0-main.c
 #include <stdio.h>
 #include "main.h"
@@ -51,3 +52,4 @@ julien@ubuntu:~/0x14. Binary$ ./a
 98
 402
 julien@ubuntu:~/0x14. Binary$ 
+```
