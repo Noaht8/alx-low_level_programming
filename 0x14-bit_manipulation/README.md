@@ -95,3 +95,4 @@ julien@ubuntu:~/0x14. Binary$ ./b
 10000000001
 julien@ubuntu:~/0x14. Binary$
 ```
+## [2-get_bit.c](2-get_bit.c)
