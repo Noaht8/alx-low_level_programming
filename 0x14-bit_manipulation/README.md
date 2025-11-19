@@ -54,3 +54,4 @@ julien@ubuntu:~/0x14. Binary$ ./a
 402
 julien@ubuntu:~/0x14. Binary$ 
 ```
+## [1-print_binary.c](1-print_binary.c)
