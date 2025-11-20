@@ -168,3 +168,4 @@ julien@ubuntu:~/0x14. Binary$ ./d
 99
 julien@ubuntu:~/0x14. Binary$
 ```
+## [4-clear_bit.c](4-clear_bit.c)
