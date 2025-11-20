@@ -171,9 +171,9 @@ julien@ubuntu:~/0x14. Binary$
 ## [4-clear_bit.c](4-clear_bit.c)
 Write a function that sets the value of a bit to 0 at a given index.
 
-Prototype: `int clear_bit(unsigned long int *n, unsigned int index);`
-where `index` is the index, starting from `0` of the bit you want to set
-Returns: `1` if it worked, or `-1` if an error occurred
+- Prototype: `int clear_bit(unsigned long int *n, unsigned int index);`
+- where `index` is the index, starting from `0` of the bit you want to set
+- Returns: `1` if it worked, or `-1` if an error occurred
 ```
 julien@ubuntu:~/0x14. Binary$ cat 4-main.c
 #include <stdio.h>
