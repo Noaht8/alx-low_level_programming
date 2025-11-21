@@ -243,3 +243,4 @@ julien@ubuntu:~/0x14. Binary$ ./f
 1
 julien@ubuntu:~/0x14. Binary$
 ```
+## [100-get_endianness.c](100-get_endianness.c)
