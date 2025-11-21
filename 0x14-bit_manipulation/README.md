@@ -284,3 +284,4 @@ NUMA node(s):          1
 Vendor ID:             GenuineIntel
 julien@ubuntu:~/0x14. Binary$
 ```
+## [101-password](101-password)
