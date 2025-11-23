@@ -154,3 +154,4 @@ julien@ubuntu:~/0x15. File descriptors and permissions$ ls -l hello
 julien@ubuntu:~/0x15. File descriptors and permissions$ cat hello 
 worldjulien@ubuntu:~/0x15. File descriptors and permis$
 ```
+## [2-append_text_to_file.c](2-append_text_to_file.c)
