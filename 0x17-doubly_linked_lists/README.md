@@ -76,3 +76,4 @@ julien@ubuntu:~/0x17. Doubly linked lists$ ./a
 -> 2 elements
 julien@ubuntu:~/0x17. Doubly linked lists$
 ```
+## [1-dlistint_len.c](1-dlistint_len.c)
