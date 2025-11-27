@@ -166,3 +166,4 @@ julien@ubuntu:~/0x17. Doubly linked lists$ ./c
 0
 julien@ubuntu:~/0x17. Doubly linked lists$
 ```
+## [3-add_dnodeint_end.c](3-add_dnodeint_end.c)
