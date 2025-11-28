@@ -323,3 +323,4 @@ julien@ubuntu:~/0x17. Doubly linked lists$ ./h
 98
 julien@ubuntu:~/0x17. Doubly linked lists$
 ```
+## [6-sum_dlistint.c](6-sum_dlistint.c)
