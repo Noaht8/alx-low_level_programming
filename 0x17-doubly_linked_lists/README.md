@@ -563,3 +563,8 @@ julien@ubuntu:~/0x17. Doubly linked lists$ ./k
 julien@ubuntu:~/0x17. Doubly linked lists$ 
 ```
 ## [100-password](100-password)
+Find the password for [crackme4](https://github.com/alx-tools/0x17.c).
+
+- Save the password in the file `100-password`
+- Your file should contain the exact password, no new line, no extra space
+- Hint: The program prints “OK” when the password is correct
