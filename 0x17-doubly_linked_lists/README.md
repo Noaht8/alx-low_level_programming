@@ -429,3 +429,4 @@ julien@ubuntu:~/0x17. Doubly linked lists$ ./j
 1024
 julien@ubuntu:~/0x17. Doubly linked lists$
 ```
+## [8-delete_dnodeint.c](8-delete_dnodeint.c)
