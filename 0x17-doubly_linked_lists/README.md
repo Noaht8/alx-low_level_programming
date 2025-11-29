@@ -365,3 +365,4 @@ julien@ubuntu:~/0x17. Doubly linked lists$ ./i
 sum = 1534
 julien@ubuntu:~/0x17. Doubly linked lists$
 ```
+## [7-insert_dnodeint.c](7-insert_dnodeint.c), [2-add_dnodeint.c](2-add_dnodeint.c), [3-add_dnodeint_end.c](3-add_dnodeint_end.c)
