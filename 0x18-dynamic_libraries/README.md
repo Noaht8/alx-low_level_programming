@@ -134,3 +134,4 @@ julien@ubuntu:~/0x18. Dynamic libraries$ nm -D --defined-only liball.so
 0000000000001176 T _strstr
 julien@ubuntu:~/0x18. Dynamic libraries$ 
 ```
+## [100-operations.so](100-operations.so)
