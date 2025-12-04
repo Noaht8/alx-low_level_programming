@@ -14,6 +14,18 @@ Resources
 -   [create dynamic libraries on Linux](https://alx-intranet.hbtn.io/rltoken/JEqzgE_pPe48rvbspGL-2g "create dynamic libraries on Linux")
 -   [Technical Writing](https://alx-intranet.hbtn.io/rltoken/dAV47Y4Iulj75aeSxpYHbQ "Technical Writing")
 
+Learning Objectives
+-------------------
+
+At the end of this project, you are expected to be able to [explain to anyone](https://alx-intranet.hbtn.io/rltoken/wZXKCWgm5hGCD0ZKtZAOrQ "explain to anyone"), **without the help of Google**:
+
+### General
+
+-   What is a dynamic library, how does it work, how to create one, and how to use it
+-   What is the environment variable `$LD_LIBRARY_PATH` and how to use it
+-   What are the differences between static and shared libraries
+-   Basic usage `nm`, `ldd`, `ldconfig`
+
 
 ## Directory Contents
 ___
