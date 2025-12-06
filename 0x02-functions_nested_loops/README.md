@@ -16,6 +16,22 @@ Resources
 -   [What is the purpose of a function prototype?](https://alx-intranet.hbtn.io/rltoken/XZ--UJZO76ZoUWNA9bTmbg "What is the purpose of a function prototype?")
 -   [C - Header Files](https://alx-intranet.hbtn.io/rltoken/AS8JW4ObD5gmyX2mgtqV0A "C - Header Files") (*stop before the "Once-Only Headers" paragraph*)
 
+Learning Objectives
+-------------------
+
+At the end of this project, you are expected to be able to [explain to anyone](https://alx-intranet.hbtn.io/rltoken/973IovM3wuVbqNXrcxZ4Bg "explain to anyone"), **without the help of Google**:
+
+### General
+
+-   What are nested loops and how to use them
+-   What is a function and how do you use functions
+-   What is the difference between a declaration and a definition of a function
+-   What is a prototype
+-   Scope of variables
+-   What are the `gcc` flags `-Wall -Werror -pedantic -Wextra -std=gnu89`
+-   What are header files and how to to use them with `#include`
+
+
 ## Directory Contents
 ___
 
