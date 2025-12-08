@@ -225,3 +225,4 @@ julien@ubuntu:~/0x18$ python3 100-tests.py
 39 % -62 = 39
 julien@ubuntu:~/0x18$ 
 ```
+## [101-make_me_win.sh](101-make_me_win.sh)
