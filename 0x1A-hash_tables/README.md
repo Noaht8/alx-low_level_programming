@@ -10,7 +10,7 @@ Resources
 
 **Read or watch**:
 
--   [What is a HashTable Data Structure - Introduction to Hash Tables , Part 0]([https://alx-intranet.hbtn.io/rltoken/IQVfdxJlS6jhAgcuUoCseg "What is a HashTable Data Structure - Introduction to Hash Tables , Part 0"](https://www.youtube.com/watch?v=MfhjkfocRR0))
+-   [What is a HashTable Data Structure - Introduction to Hash Tables , Part 0](https://www.youtube.com/watch?v=MfhjkfocRR0)
 -   [Hash function](https://alx-intranet.hbtn.io/rltoken/ZKpRI_FxOxAz80Onpfy0Ew "Hash function")
 -   [Hash table](https://alx-intranet.hbtn.io/rltoken/mxjKpEfAw3E5B8S3inPuHQ "Hash table")
 
