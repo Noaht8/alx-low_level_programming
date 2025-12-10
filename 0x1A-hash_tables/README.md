@@ -85,3 +85,6 @@ typedef struct hash_table_s
 } hash_table_t;
 
 ```
+
+## [0-hash_table_create.c](0-hash_table_create.c)
+
