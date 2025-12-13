@@ -145,9 +145,9 @@ int main(void)
 
         return (0);
 }
-```
-```
 carrie@ubuntu:/debugging$
+```
+```
 carrie@ubuntu:/debugging$ cat 2-largest_number.c
 #include "main.h"
 
@@ -178,9 +178,9 @@ int largest_number(int a, int b, int c)
 
     return (largest);
 }
-```
-```
 carrie@ubuntu:/debugging$
+```
+```
 carrie@ubuntu:/debugging$ gcc -Wall -Werror -Wextra -pedantic -std=gnu89 2-largest_number.c 2-main.c -o 2-main
 carrie@ubuntu:/debugging$ ./2-main
 0 is the largest number
