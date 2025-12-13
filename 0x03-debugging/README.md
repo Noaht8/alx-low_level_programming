@@ -186,3 +186,9 @@ carrie@ubuntu:/debugging$ ./2-main
 0 is the largest number
 carrie@ubuntu:/debugging$
 ```
+
+? That’s definitely not right.
+
+Fix the code in `2-largest_number.c` so that it correctly prints out the largest of three numbers, no matter the case.
+
+- Line count will not be checked for this task.
