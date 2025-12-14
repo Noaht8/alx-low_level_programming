@@ -194,3 +194,36 @@ Fix the code in `2-largest_number.c` so that it correctly prints out the largest
 - Line count will not be checked for this task.
 
 ## [3-print_remaining_days.c](3-print_remaining_days.c), [main.h](main.h)
+This program converts a date to the day of year and determines how many days are left in the year, taking leap year into consideration.
+```
+carrie@ubuntu:/debugging$ cat 3-main_a.c
+#include <stdio.h>
+#include "main.h"
+
+/**
+* main - takes a date and prints how many days are left in the year, taking
+* leap years into account
+* Return: 0
+*/
+
+int main(void)
+{
+    int month;
+    int day;
+    int year;
+
+    month = 4;
+    day = 01;
+    year = 1997;
+
+    printf("Date: %02d/%02d/%04d\n", month, day, year);
+
+    day = convert_day(month, day);
+
+    print_remaining_days(month, day, year);
+
+    return (0);
+}
+
+carrie@ubuntu:/debugging$
+```
