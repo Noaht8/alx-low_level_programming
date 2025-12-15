@@ -141,3 +141,7 @@ julien@ubuntu:~/0x1A. Hash tables$ valgrind ./a
 julien@ubuntu:~/0x1A. Hash tables$
 ```
 ## [1-djb2.c](1-djb2.c)
+Write a hash function implementing the djb2 algorithm.
+
+- Prototype: `unsigned long int hash_djb2(const unsigned char *str);`
+- You are allowed to copy and paste the function from [this page](https://gist.github.com/papamuziko/7bb52dfbb859fdffc4bd0f95b76f71e8)
