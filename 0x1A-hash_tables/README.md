@@ -279,3 +279,5 @@ If you want to test for collisions, here are some strings that collide using the
 - **joyful** collides with **synaphea**
 - **redescribed** collides with **urites**
 - **dram** collides with **vivency**
+
+## [4-hash_table_get.c](4-hash_table_get.c)
