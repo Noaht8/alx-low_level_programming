@@ -238,3 +238,4 @@ julien@ubuntu:~/0x1A. Hash tables$ ./c
 470
 julien@ubuntu:~/0x1A. Hash tables$ 
 ```
+## [3-hash_table_set.c](3-hash_table_set.c)
