@@ -270,3 +270,12 @@ int main(void)
 julien@ubuntu:~/0x1A. Hash tables$ gcc -Wall -pedantic -Werror -Wextra -std=gnu89 3-main.c 0-hash_table_create.c 1-djb2.c 2-key_index.c 3-hash_table_set.c -o d
 julien@ubuntu:~/0x1A. Hash tables$
 ```
+If you want to test for collisions, here are some strings that collide using the djb2 algorithm:
+
+- **hetairas** collides with **mentioner**
+- **heliotropes** collides with **neurospora**
+- **depravement** collides with **serafins**
+- **stylist** collides with **subgenera**
+- **joyful** collides with **synaphea**
+- **redescribed** collides with **urites**
+- **dram** collides with **vivency**
