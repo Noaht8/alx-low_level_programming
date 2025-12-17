@@ -392,7 +392,7 @@ Write a function that deletes a hash table.
 
 - Prototype: `void hash_table_delete(hash_table_t *ht);`
      - where `ht` is the hash table
-``
+```
 julien@ubuntu:~/0x1A. Hash tables$ cat 6-main.c 
 #include <stdlib.h>
 #include <string.h>
