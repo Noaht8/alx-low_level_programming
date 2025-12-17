@@ -344,3 +344,4 @@ c:isfun
 javascript:(null)
 julien@ubuntu:~/0x1A. Hash tables$
 ```
+## [5-hash_table_print.c](5-hash_table_print.c)
