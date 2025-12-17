@@ -387,3 +387,4 @@ julien@ubuntu:~/0x1A. Hash tables$ ./f
 {'Betty': 'Cool', 'python': 'awesome', 'Bob': 'and Kris love asm', '98': 'Battery Street', 'N': 'queens', 'c': 'fun', 'Asterix': 'Obelix'}
 julien@ubuntu:~/0x1A. Hash tables$
 ```
+## [6-hash_table_delete.c](6-hash_table_delete.c)
