@@ -132,3 +132,4 @@ gcc    -c -o main.o main.c
 gcc main.o school.o -o school
 julien@ubuntu:~/0x1C. Makefiles$ 
 ```
+## [3-Makefile](3-Makefile)
