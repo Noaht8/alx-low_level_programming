@@ -104,3 +104,4 @@ julien@ubuntu:~/0x1C. Makefiles$ make -f 1-Makefile
 gcc main.c school.c -o school
 julien@ubuntu:~/0x1C. Makefiles$
 ```
+## [2-Makefile](2-Makefile)
