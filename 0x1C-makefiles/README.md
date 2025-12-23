@@ -219,7 +219,7 @@ Requirements:
 - The `all` rule should recompile only the updated source files
 - The `clean`, `oclean`, `fclean`, `re` rules should never fail
 
-You are not allowed to have a list of all the .o files
+You are not allowed to have a list of all the `.o` files
 ```
 julien@ubuntu:~/0x1C. Makefiles$ make all -f 4-Makefile
 gcc -Wall -Werror -Wextra -pedantic   -c -o main.o main.c
