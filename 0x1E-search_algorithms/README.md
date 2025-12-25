@@ -42,3 +42,16 @@ At the end of this project, you are expected to be able to [explain to anyone](h
 - The prototypes of all your functions should be included in your header file called `search_algos.h`
 - Don’t forget to push your header file
 - All your header files should be include guarded
+
+## More Info
+You will be asked to write files containing big O notations. Please use this format:
+
+- `O(1)`
+- `O(n)`
+- `O(n!)`
+- n*m -> `O(nm)`
+- n square -> `O(n^2)`
+- sqrt n -> `O(sqrt(n))`
+- log(n) -> `O(log(n))`
+- n * log(n) -> `O(nlog(n))`
+- …
