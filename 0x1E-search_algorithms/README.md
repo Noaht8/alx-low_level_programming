@@ -60,3 +60,4 @@ You will be asked to write files containing big O notations. Please use this for
 ___
 
 This directory contains the following files:
+## [0-linear.c](0-linear.c)
