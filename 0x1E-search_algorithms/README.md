@@ -55,3 +55,8 @@ You will be asked to write files containing big O notations. Please use this for
 - log(n) -> `O(log(n))`
 - n * log(n) -> `O(nlog(n))`
 - …
+
+## Directory Contents
+___
+
+This directory contains the following files:
