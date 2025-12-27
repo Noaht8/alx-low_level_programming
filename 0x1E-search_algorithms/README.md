@@ -119,3 +119,4 @@ Value checked array[8] = [-1]
 Value checked array[9] = [9]
 Found 999 at index: -1
 ```
+## [1-binary.c](1-binary.c)
