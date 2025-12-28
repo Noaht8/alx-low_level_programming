@@ -174,3 +174,4 @@ Found 999 at index: -1
 ```
 ## [2-O](2-O)
 What is the `time complexity` (worst case) of a linear search in an array of size `n`?
+## [3-O](3-O)
