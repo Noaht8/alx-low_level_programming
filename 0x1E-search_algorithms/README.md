@@ -258,3 +258,4 @@ Value checked array[9] = [9]
 Found 999 at index: -1
 ```
 ## [101-O](101-O)
+What is the `time complexity` (average case) of a jump search in an array of size `n`, using `step = sqrt(n)`?
