@@ -260,3 +260,14 @@ Found 999 at index: -1
 ## [101-O](101-O)
 What is the `time complexity` (average case) of a jump search in an array of size `n`, using `step = sqrt(n)`?
 ## [102-interpolation.c](102-interpolation.c)
+Write a function that searches for a value in a sorted array of integers using the [Interpolation search algorithm](https://en.wikipedia.org/wiki/Interpolation_search)
+
+- Prototype : `int interpolation_search(int *array, size_t size, int value);`
+- Where `array` is a pointer to the first element of the array to search in
+- `size` is the number of elements in `array`
+- And `value` is the value to search for
+- Your function must return the first index where `value` is located
+- You can assume that `array` will be sorted in ascending order
+- If value is not present in `array` or if `array` is `NULL`, your function must return `-1`
+- To determine the probe position, you can use : `size_t pos = low + (((double)(high - low) / (array[high] - array[low])) * (value - array[low]))`
+- Every time you compare a value in the array to the value you are searching, you have to print this value (see example below)
