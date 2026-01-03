@@ -429,3 +429,23 @@ Searching in array: 9
 Found 999 at index: -1
 ```
 ## [105-jump_list.c](105-jump_list.c)
+You might think that linear search is not as effective as any other algorithm, right? Well, we should see what happens with a singly linked list.
+
+Please define the following data structure in your `search_algos.h` header file:
+```
+/**
+ * struct listint_s - singly linked list
+ *
+ * @n: Integer
+ * @index: Index of the node in the list
+ * @next: Pointer to the next node
+ *
+ * Description: singly linked list node structure
+ */
+typedef struct listint_s
+{
+    int n;
+    size_t index;
+    struct listint_s *next;
+} listint_t;
+```
