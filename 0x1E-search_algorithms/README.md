@@ -547,3 +547,4 @@ Value checked at index [14] = [76]
 Value checked at index [15] = [99]
 Found 999 at index: (nil)
 ```
+## [106-linear_skip.c](106-linear_skip.c)
