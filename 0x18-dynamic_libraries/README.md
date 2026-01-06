@@ -11,7 +11,7 @@ Resources
 **Read or watch**:
 
 -   [What is difference between Dynamic and Static library (Static and Dynamic linking)](https://www.youtube.com/watch?v=eW5he5uFBNM)
--   [create dynamic libraries on Linux](https://alx-intranet.hbtn.io/rltoken/JEqzgE_pPe48rvbspGL-2g "create dynamic libraries on Linux")
+-   [Creating a dynamic library in C](https://cylab.be/blog/234/creating-a-dynamic-library-in-c)
 -   [Technical Writing](https://alx-intranet.hbtn.io/rltoken/dAV47Y4Iulj75aeSxpYHbQ "Technical Writing")
 
 Learning Objectives
