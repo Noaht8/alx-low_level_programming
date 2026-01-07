@@ -5,6 +5,10 @@
 ## Author:
 * **Noah Tsegay** <[Noaht8](https://github.com/Noaht8)>  😎
 
+## Resources
+### Read or watch:
+- [What is a Doubly Linked List](https://www.youtube.com/watch?v=k0pjD12bzP0)
+
 ## More Info
 Please use this data structure for this project:
 ```
