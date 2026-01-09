@@ -1,6 +1,6 @@
 ## 0x14. C - Bit manipulation
 
-![Image link]()
+![Image link](bitwise.png)
 
 ## Author:
 * **Noah Tsegay** <[Noaht8](https://github.com/Noaht8)>  😎
