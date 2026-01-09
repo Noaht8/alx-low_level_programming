@@ -16,8 +16,8 @@
 - [Bitwise Operators 4: The Logical Shift Operation](https://www.youtube.com/watch?feature=shared&v=mjqswwqE1RQ)
 - [Bit Manipulation](https://pebble.gitbooks.io/learning-c-with-pebble/content/chapter12.html)
 - [Bitwise Operators](https://www.programiz.com/c-programming/bitwise-operators)
-- Google
-- Youtube
+- [Google](https://www.google.com/webhp?q=bit+manipulation+C)
+- [Youtube](https://www.youtube.com/results?search_query=bitwise+operators+in+c)
 ## Directory Contents
 ___
 
