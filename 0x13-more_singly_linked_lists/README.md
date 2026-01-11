@@ -12,6 +12,10 @@
 
 ## Learning Objectives
 At the end of this project, you are expected to be able to [explain to anyone](https://fs.blog/feynman-learning-technique/), without the help of Google:
+## General
+- How to use linked lists
+- Start to look for the right source of information without too much help
+
 ## More Info
 Please use this data structure for this project:
 ```
