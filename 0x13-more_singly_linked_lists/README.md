@@ -5,6 +5,10 @@
 ## Author:
 * **Noah Tsegay** <[Noaht8](https://github.com/Noaht8)>  😎
 
+## Resources
+### Read or watch:
+- [Google](https://www.google.com/#q=linked+lists)
+- [Youtube](https://www.youtube.com/results?search_query=linked+lists)
 ## More Info
 Please use this data structure for this project:
 ```
