@@ -1,6 +1,6 @@
 ## 0x12. C - Singly linked lists
 
-![Image link]()
+![Image link](giphy-3.gif)
 
 ## Author:
 * **Noah Tsegay** <[Noaht8](https://github.com/Noaht8)>  😎
