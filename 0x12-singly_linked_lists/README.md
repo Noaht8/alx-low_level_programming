@@ -17,6 +17,11 @@ Basics (Read deep into either for explanations of common data structures):
 [Tutorials Point](https://www.tutorialspoint.com/data_structures_algorithms/data_structures_basics.htm)
 [Geeks for Geeks](https://www.geeksforgeeks.org/dsa/data-structures/)
 
+## Resources
+## Read or watch:
+- [Linked Lists](https://www.youtube.com/watch?v=udapt4FGY20&t=130s)
+- [Google](https://www.google.com/#q=linked+lists)
+- [Youtube](https://www.youtube.com/results?search_query=linked+lists)
 ## More Info
 Please use this data structure for this project:
 ```
