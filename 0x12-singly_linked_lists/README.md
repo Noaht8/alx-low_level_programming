@@ -25,6 +25,10 @@ Basics (Read deep into either for explanations of common data structures):
 
 ## Learning Objectives
 At the end of this project, you are expected to be able to [explain to anyone](https://fs.blog/feynman-learning-technique/), without the help of Google:
+## General
+- When and why using linked lists vs arrays
+- How to build and use linked lists
+
 ## More Info
 Please use this data structure for this project:
 ```
