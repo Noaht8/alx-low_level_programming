@@ -13,6 +13,9 @@
 
 ### man or help:
 - stdarg
+
+## Additional Resources
+- [Variadic Functions in C Programming](https://www.youtube.com/watch?v=Lh7xydr8zzU)
 ## Directory Contents
 ___
 
