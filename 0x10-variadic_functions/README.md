@@ -12,7 +12,7 @@
 - [Const Keyword](https://www.youtube.com/watch?v=1W4oyuOdXv8)
 
 ### man or help:
-- stdarg
+- `stdarg`
 
 ## Additional Resources
 - [Variadic Functions in C Programming](https://www.youtube.com/watch?v=Lh7xydr8zzU)
