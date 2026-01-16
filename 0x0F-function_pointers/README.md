@@ -12,6 +12,9 @@
 - [Function Pointers in C / C++](https://www.youtube.com/watch?v=ynYtgGUNelE)
 - [why pointers to functions?](https://www.youtube.com/watch?v=sxTFSDAZM8s)
 - [Everything you need to know about pointers in C](https://boredzo.org/pointers/)
+
+## Additional Resources
+[Function pointers in C Programming & How to use them](https://www.youtube.com/watch?v=ztMTOPM4ViU)
 ## Directory Contents
 ___
 
