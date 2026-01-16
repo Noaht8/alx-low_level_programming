@@ -15,6 +15,9 @@
 
 ## Additional Resources
 [Function pointers in C Programming & How to use them](https://www.youtube.com/watch?v=ztMTOPM4ViU)
+## Learning Objectives
+At the end of this project, you are expected to be able to [explain to anyone](https://fs.blog/feynman-learning-technique/), without the help of Google:
+
 ## Directory Contents
 ___
 
