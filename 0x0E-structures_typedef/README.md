@@ -8,7 +8,7 @@
 ## Resources
 ### Read or watch:
 
-- [0x0d. Structures.pdf]()
+- [0x0d. Structures.pdf](Structures.pdf)
 - [struct (C programming language)](https://en.wikipedia.org/wiki/Struct_(C_programming_language))
 - [Documentation: structures](https://github.com/alx-tools/Betty/wiki/Documentation:-Data-structures)
 - [0x0d. Typedef and structures.pdf]()
