@@ -5,6 +5,14 @@
 ## Author:
 * **Noah Tsegay** <[Noaht8](https://github.com/Noaht8)>  😎
 
+## Resources
+### Read or watch:
+
+- [0x0d. Structures.pdf]()
+- [struct (C programming language)](https://en.wikipedia.org/wiki/Struct_(C_programming_language))
+- [Documentation: structures](https://github.com/alx-tools/Betty/wiki/Documentation:-Data-structures)
+- [0x0d. Typedef and structures.pdf]()
+- `Programming in C` by Stephen Kochan - Chapter 8, Working with Structures p163-189
 ## Directory Contents
 ___
 
