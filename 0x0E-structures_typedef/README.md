@@ -1,6 +1,6 @@
 ## 0x0E. C - Structures, typedef
 
-![Image link]()
+![Image link](Structures_typedef.jpg)
 
 ## Author:
 * **Noah Tsegay** <[Noaht8](https://github.com/Noaht8)>  😎
