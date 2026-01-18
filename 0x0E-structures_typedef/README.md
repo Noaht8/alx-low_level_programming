@@ -11,7 +11,7 @@
 - [0x0d. Structures.pdf](Structures.pdf)
 - [struct (C programming language)](https://en.wikipedia.org/wiki/Struct_(C_programming_language))
 - [Documentation: structures](https://github.com/alx-tools/Betty/wiki/Documentation:-Data-structures)
-- [0x0d. Typedef and structures.pdf]()
+- [0x0d. Typedef and structures.pdf](Typedef_and_structures.pdf)
 - [typedef](https://publications.gbdirect.co.uk//c_book/chapter8/typedef.html)
 - `Programming in C` by Stephen Kochan - Chapter 8, Working with Structures p163-189
 ## Directory Contents
