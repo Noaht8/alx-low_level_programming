@@ -14,6 +14,10 @@
 - [0x0d. Typedef and structures.pdf](Typedef_and_structures.pdf)
 - [typedef](https://publications.gbdirect.co.uk//c_book/chapter8/typedef.html)
 - `Programming in C` by Stephen Kochan - Chapter 8, Working with Structures p163-189
+## Additional Resource
+- [Structs & Typedef in C Explained](https://www.youtube.com/watch?v=V13CbI74WQc)
+- [Practical use of structs & typedef with coding examples](https://www.youtube.com/watch?v=0IVfazuTHU8)
+- [The Lost Art of C Structure Packing](http://www.catb.org/esr/structure-packing/) (Advanced - not mandatory)
 ## Directory Contents
 ___
 
