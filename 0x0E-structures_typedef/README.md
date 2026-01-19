@@ -18,6 +18,8 @@
 - [Structs & Typedef in C Explained](https://www.youtube.com/watch?v=V13CbI74WQc)
 - [Practical use of structs & typedef with coding examples](https://www.youtube.com/watch?v=0IVfazuTHU8)
 - [The Lost Art of C Structure Packing](http://www.catb.org/esr/structure-packing/) (Advanced - not mandatory)
+## Learning Objectives
+At the end of this project, you are expected to be able to [explain to anyone](https://fs.blog/feynman-learning-technique/), **without the help of Google:**
 ## Directory Contents
 ___
 
