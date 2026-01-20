@@ -7,10 +7,10 @@
 
 ## Resources
 ### Read or watch:
-- Understanding C program Compilation Process
-- Object-like Macros
-- Macro Arguments
-- Pre Processor Directives in C
+- [Understanding C program Compilation Process](https://www.youtube.com/watch?v=eW5he5uFBNM)
+- [Object-like Macros](https://gcc.gnu.org/onlinedocs/gcc-5.1.0/cpp/Object-like-Macros.html#Object-like-Macros)
+- [Macro Arguments](https://gcc.gnu.org/onlinedocs/gcc-5.1.0/cpp/Macro-Arguments.html#Macro-Arguments)
+- [Pre Processor Directives in C](https://www.youtube.com/watch?v=X6HiYbY3Uak)
 - The C Preprocessor
 - Standard Predefined Macros
 - include guard
