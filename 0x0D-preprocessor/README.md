@@ -17,6 +17,10 @@
 - [Common Predefined Macros](https://gcc.gnu.org/onlinedocs/gcc-5.1.0/cpp/Common-Predefined-Macros.html#Common-Predefined-Macros)
 ## Learning Objectives
 At the end of this project, you are expected to be able to [explain to anyone](https://fs.blog/feynman-learning-technique/), **without the help of Google:**
+## General
+- What are macros and how to use them
+- What are the most common predefined macros
+- How to include guard your header files
 ## Directory Contents
 ___
 
