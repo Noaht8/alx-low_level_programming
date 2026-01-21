@@ -1,4 +1,4 @@
 ## Question #0
-The preprocessor links our code with libraries.
-- [x]False
-- []True
+The preprocessor links our code with libraries.<br>
+[x]False<br>
+[]True
