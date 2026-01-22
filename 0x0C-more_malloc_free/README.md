@@ -12,7 +12,8 @@
 - `exit (3)`
 - `calloc`
 - `realloc`
-
+## Additional Resources
+- [Practical use of MALLOC in C - Dynamic Memory Allocation](https://www.youtube.com/watch?v=OUdpPq07yPU)
 ## Directory Contents
 ___
 
