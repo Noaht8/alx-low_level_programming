@@ -8,7 +8,10 @@
 ## Resources
 ### Read or watch:
 [Do I cast the result of malloc?](https://stackoverflow.com/questions/605845/should-i-cast-the-result-of-malloc-in-c)
-
+### man or help:
+- `exit (3)`
+- `calloc`
+- `realloc`
 
 ## Directory Contents
 ___
