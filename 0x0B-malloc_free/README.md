@@ -12,6 +12,8 @@
 ## man or help:
 - `malloc`
 - `free`
+## Additional Resources
+- [Dynamic Memory Allocation in C Programming Explained](https://www.youtube.com/watch?v=-za3kDtaMvY)
 ## Directory Contents
 ___
 
