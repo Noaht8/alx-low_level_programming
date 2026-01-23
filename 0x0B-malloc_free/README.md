@@ -5,6 +5,10 @@
 ## Author:
 * **Noah Tsegay** <[Noaht8](https://github.com/Noaht8)>  😎
 
+## Resources
+### Read or watch:
+- 0x0a - malloc & free - quick overview.pdf
+- [Dynamic memory allocation in C - malloc calloc realloc free](https://www.youtube.com/watch?v=xDVC3wKjS64) (stop at 6:50)
 ## Directory Contents
 ___
 
