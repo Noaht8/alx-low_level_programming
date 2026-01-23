@@ -33,6 +33,9 @@ At the end of this project, you are expected to be able to [explain to anyone](h
 - Your code should use the `Betty` style. It will be checked using [betty-style.pl](https://github.com/alx-tools/Betty/blob/master/betty-style.pl) and [betty-doc.pl](https://github.com/alx-tools/Betty/blob/master/betty-doc.pl)
 - You are not allowed to use global variables
 - No more than 5 functions per file
+- The only C standard library functions allowed are `malloc`, `free` and `exit`. Any use of functions like `printf`, `puts`, `calloc`, `realloc` etc… is forbidden
+- You are allowed to use [_putchar](https://github.com/alx-tools/_putchar.c/blob/master/_putchar.c)
+- You don’t have to push `_putchar.c`, we will use our file. If you do it won’t be taken into account
 ## Directory Contents
 ___
 
