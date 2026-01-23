@@ -7,7 +7,7 @@
 
 ## Resources
 ### Read or watch:
-- 0x0a - malloc & free - quick overview.pdf
+- [0x0a - malloc & free - quick overview.pdf](Dynamic_memory_allocation.pdf)
 - [Dynamic memory allocation in C - malloc calloc realloc free](https://www.youtube.com/watch?v=xDVC3wKjS64) (stop at 6:50)
 ## Directory Contents
 ___
