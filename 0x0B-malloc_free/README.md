@@ -16,6 +16,11 @@
 - [Dynamic Memory Allocation in C Programming Explained](https://www.youtube.com/watch?v=-za3kDtaMvY)
 ## Learning Objectives
 At the end of this project, you are expected to be able to [explain to anyone](https://fs.blog/feynman-learning-technique/), **without the help of Google:**
+## General
+- What is the difference between automatic and dynamic allocation
+- What is `malloc` and `free` and how to use them
+- Why and when use `malloc`
+- How to use `valgrind` to check for memory leak
 ## Directory Contents
 ___
 
