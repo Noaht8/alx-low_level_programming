@@ -10,6 +10,8 @@
 - [argc and argv](http://crasseux.com/books/ctutorial/argc-and-argv.html)
 - [What does argc and argv mean?](https://www.youtube.com/watch?v=aP1ijjeZc24)
 - [how to compile with unused variables](https://www.google.com/webhp?q=unused+variable+C)
+## Additional Resources
+- [Command Line Arguments (Argc & Argv) in C Programming](https://www.youtube.com/watch?v=iFMrxVWiTUs)
 ## Directory Contents
 ___
 
