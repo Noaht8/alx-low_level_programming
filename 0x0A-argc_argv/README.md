@@ -12,6 +12,8 @@
 - [how to compile with unused variables](https://www.google.com/webhp?q=unused+variable+C)
 ## Additional Resources
 - [Command Line Arguments (Argc & Argv) in C Programming](https://www.youtube.com/watch?v=iFMrxVWiTUs)
+## Learning Objectives
+At the end of this project, you are expected to be able to [explain to anyone](https://fs.blog/feynman-learning-technique/), **without the help of Google:**
 ## Directory Contents
 ___
 
