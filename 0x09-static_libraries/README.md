@@ -19,6 +19,9 @@
 - [Static Libraries: How to Create & Use them in C programming](https://www.youtube.com/watch?v=icbR8V5eOQc)
 ## Learning Objectives
 At the end of this project, you are expected to be able to [explain to anyone](https://fs.blog/feynman-learning-technique/), **without the help of Google:**
+## General
+- What is a static library, how does it work, how to create one, and how to use it
+- Basic usage of `ar`, `ranlib`, `nm`
 ## Directory Contents
 ___
 ## [libmy.a](libmy.a), [main.h](main.h)
