@@ -4,6 +4,13 @@
 
 ## Author:
 * **Noah Tsegay** <[Noaht8](https://github.com/Noaht8)>  😎
+
+## Resources
+### Read or watch:
+- What Is A “C” Library? What Is It Good For?
+- Creating A Static “C” Library Using “ar” and “ranlib”
+- Using A “C” Library In A Program
+- What is difference between Dynamic and Static library(Static and Dynamic linking) (stop at 4:44)
 ## Learning Objectives
 At the end of this project, you are expected to be able to [explain to anyone](https://fs.blog/feynman-learning-technique/), **without the help of Google:**
 ## Directory Contents
