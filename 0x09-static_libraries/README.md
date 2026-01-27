@@ -15,6 +15,8 @@
 - `ar`
 - `ranlib`
 - `nm`
+## Additional Resource
+- [Static Libraries: How to Create & Use them in C programming](https://www.youtube.com/watch?v=icbR8V5eOQc)
 ## Learning Objectives
 At the end of this project, you are expected to be able to [explain to anyone](https://fs.blog/feynman-learning-technique/), **without the help of Google:**
 ## Directory Contents
