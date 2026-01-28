@@ -52,6 +52,8 @@ At the end of this project, you are expected to be able to [explain to anyone](h
 - The first line of all your files should be exactly `#!/bin/bash`
 - A `README.md` file, at the root of the folder of the project, describing what each script is doing
 - All your files must be executable
+## More Info
+You do not need to learn about dynamic libraries, yet.
 ## Directory Contents
 ___
 ## [libmy.a](libmy.a), [main.h](main.h)
