@@ -5,6 +5,9 @@
 ## Author:
 * **Noah Tsegay** <[Noaht8](https://github.com/Noaht8)>  😎
 
+## Concepts
+For this project, we expect you to look at this concept:
+- [C static libraries](C_static_libraries.md)
 ## Resources
 ### Read or watch:
 - [What Is A “C” Library? What Is It Good For?](https://docencia.ac.upc.edu/FIB/USO/Bibliografia/unix-c-libraries.html)
