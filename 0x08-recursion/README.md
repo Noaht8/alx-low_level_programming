@@ -1,6 +1,6 @@
 # 0x08. C - Recursion
 
-![Image link]()
+![Image link](a88.jpg)
 
 ## Author:
 * **Noah Tsegay** <[Noaht8](https://github.com/Noaht8)>  😎
