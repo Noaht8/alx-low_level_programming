@@ -15,6 +15,10 @@
 - [Arrays, Strings & Pointers in C Programming](https://www.youtube.com/watch?v=WxWv9_8xlac)
 ## Learning Objectives
 At the end of this project, you are expected to be able to [explain to anyone](https://fs.blog/feynman-learning-technique/), **without the help of Google:**
+## General
+- What are pointers to pointers and how to use them
+- What are multidimensional arrays and how to use them
+- What are the most common C standard library functions to manipulate strings
 ## Directory Contents
 ___
 
