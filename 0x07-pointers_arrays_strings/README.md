@@ -1,6 +1,6 @@
 # 0x07. C - Even more pointers, arrays and strings
 
-![Image link]()
+![Image link](pointer.jpg)
 
 ## Author:
 * **Noah Tsegay** <[Noaht8](https://github.com/Noaht8)>  😎
