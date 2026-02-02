@@ -7,6 +7,9 @@
 
 ## Additional Resource
 - [Practical Use of Pointers in C Programming](https://www.youtube.com/watch?feature=shared&v=KzLC_9VAoX0)
+
+## Learning Objectives
+At the end of this project, you are expected to be able to [explain to anyone](https://fs.blog/feynman-learning-technique/?fbclid=IwAR2K5_BGPVo0QjJXkOIIqNsqcXK4lTskPWJvA0asKQIGtCPWaQBdKmj1Ztg), **without the help of Google:**
 ## Directory Contents
 ___
 
