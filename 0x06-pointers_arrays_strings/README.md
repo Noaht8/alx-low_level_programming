@@ -5,6 +5,8 @@
 ## Author:
 * **Noah Tsegay** <[Noaht8](https://github.com/Noaht8)>  &#128511;
 
+## Additional Resource
+- [Practical Use of Pointers in C Programming](https://www.youtube.com/watch?feature=shared&v=KzLC_9VAoX0)
 ## Directory Contents
 ___
 
