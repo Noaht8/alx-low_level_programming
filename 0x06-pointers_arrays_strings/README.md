@@ -1,6 +1,6 @@
 # 0x06. C - More pointers, arrays and strings
 
-![Image link]()
+![Image link](happy-clapping.gif)
 
 ## Author:
 * **Noah Tsegay** <[Noaht8](https://github.com/Noaht8)>  &#128511;
