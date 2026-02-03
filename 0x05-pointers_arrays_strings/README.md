@@ -5,6 +5,12 @@
 ## Author:
 * **Noah Tsegay** <[Noaht8](https://github.com/Noaht8)>  &#128511;
 
+## Resources
+## Read or watch:
+- C - Arrays
+- C - Pointers
+- C - Strings
+- Memory Layout
 ## Directory Contents
 ___
 
