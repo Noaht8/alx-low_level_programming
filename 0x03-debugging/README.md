@@ -1,6 +1,6 @@
 # 0x03. C - Debugging
 
-![Image link]()
+![Image link](debug.jpg)
 
 ## Author:
 * **Noah Tsegay** <[Noaht8](https://github.com/Noaht8)>  &#128511;
