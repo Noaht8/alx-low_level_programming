@@ -53,6 +53,11 @@ Requirements
 -   The prototypes of all your functions and the prototype of the function `_putchar` should be included in your header file called `main.h`
 -   Don't forget to push your header file
 
+## Copyright - Plagiarism
+- You are tasked to come up with solutions for the tasks below yourself to meet with the above learning objectives.
+- You will not be able to meet the objectives of this or any following project by copying and pasting someone else’s work.
+- You are not allowed to publish any content of this project.
+- Any form of plagiarism is strictly forbidden and will result in removal from the program.
 ## Directory Contents
 ___
 
