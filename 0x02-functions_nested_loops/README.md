@@ -12,9 +12,9 @@ Resources
 
 -   [Nested while loops](https://www.youtube.com/watch?v=Z3iGeQ1gIss)
 -   [C - Functions](https://www.tutorialspoint.com/cprogramming/c_functions.htm)
--   [Learning to Program in C (Part 06)](https://alx-intranet.hbtn.io/rltoken/jveXtnJII2S0z7a06c7-JA "Learning to Program in C (Part 06)") (*stop at 14:00*)
--   [What is the purpose of a function prototype?](https://alx-intranet.hbtn.io/rltoken/XZ--UJZO76ZoUWNA9bTmbg "What is the purpose of a function prototype?")
--   [C - Header Files](https://alx-intranet.hbtn.io/rltoken/AS8JW4ObD5gmyX2mgtqV0A "C - Header Files") (*stop before the "Once-Only Headers" paragraph*)
+-   [Learning to Program in C (Part 06)](https://www.youtube.com/watch?v=qMlnFwYdqIw) (*stop at 14:00*)
+-   [What is the purpose of a function prototype?](https://www.geeksforgeeks.org/c/what-is-the-purpose-of-a-function-prototype/)
+-   [C - Header Files](https://www.tutorialspoint.com/cprogramming/c_header_files.htm) (*stop before the "Once-Only Headers" paragraph*)
 
 Learning Objectives
 -------------------
