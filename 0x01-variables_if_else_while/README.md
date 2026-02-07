@@ -11,11 +11,11 @@ Resources
 **Read or watch**:
 
 -   [Everything you need to know to start with C.pdf](c.pdf) (*You do not have to learn everything in there yet, but make sure you read it entirely first and make sure you understand the slides: "comments", "Data types | Integer types", "Declaration", "Characters", "Arithmetic operators", "Variables assignments", "Comparisons", "Logical operators", "if, if...else", "while loops".*)
--   [Keywords and identifiers](https://alx-intranet.hbtn.io/rltoken/58ThnAAxwJv5s_ceKMMPhw "Keywords and identifiers")
--   [integers](https://alx-intranet.hbtn.io/rltoken/2sXkmDiD7BF7pNIOxMQWFA "integers")
--   [Arithmetic Operators in C](https://alx-intranet.hbtn.io/rltoken/S-b9MN2iELhSEwCI093Vzw "Arithmetic Operators in C")
--   [If statements in C](https://alx-intranet.hbtn.io/rltoken/usvxrTB3ko5kGTq48p5fSA "If statements in C")
--   [if...else statement](https://alx-intranet.hbtn.io/rltoken/CU6mSX1qdZKOhDEgmToUGA "if...else statement")
+-   [Keywords and identifiers](https://publications.gbdirect.co.uk//c_book/chapter2/keywords_and_identifiers.html)
+-   [integers](https://publications.gbdirect.co.uk//c_book/chapter2/integral_types.html)
+-   [Arithmetic Operators in C](https://www.tutorialspoint.com/cprogramming/c_arithmetic_operators.htm)
+-   [If statements in C](https://www.cprogramming.com/tutorial/c/lesson2.html)
+-   [if...else statement](https://www.tutorialspoint.com/cprogramming/if_else_statement_in_c.htm)
 -   [Relational operators](https://alx-intranet.hbtn.io/rltoken/O1N-qacaTC-BHXm3Dp3eUA "Relational operators")
 -   [Logical operators](https://alx-intranet.hbtn.io/rltoken/ndmvlsrk_wLgwBs-Yma9ag "Logical operators")
 -   [while loop in C](https://alx-intranet.hbtn.io/rltoken/mwx2_bj3gIFEgCqdwdTp4w "while loop in C")
