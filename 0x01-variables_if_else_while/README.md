@@ -16,10 +16,10 @@ Resources
 -   [Arithmetic Operators in C](https://www.tutorialspoint.com/cprogramming/c_arithmetic_operators.htm)
 -   [If statements in C](https://www.cprogramming.com/tutorial/c/lesson2.html)
 -   [if...else statement](https://www.tutorialspoint.com/cprogramming/if_else_statement_in_c.htm)
--   [Relational operators](https://alx-intranet.hbtn.io/rltoken/O1N-qacaTC-BHXm3Dp3eUA "Relational operators")
--   [Logical operators](https://alx-intranet.hbtn.io/rltoken/ndmvlsrk_wLgwBs-Yma9ag "Logical operators")
--   [while loop in C](https://alx-intranet.hbtn.io/rltoken/mwx2_bj3gIFEgCqdwdTp4w "while loop in C")
--   [While loop](https://alx-intranet.hbtn.io/rltoken/MW4Ob-6JLWt7Zn6vZ0EsBw "While loop")
+-   [Relational operators](https://www.tutorialspoint.com/cprogramming/c_relational_operators.htm)
+-   [Logical operators](https://www.fresh2refresh.com/c-programming/c-operators-expressions/c-logical-operators/)
+-   [while loop in C](https://www.tutorialspoint.com/cprogramming/c_while_loop.htm)
+-   [While loop](https://www.youtube.com/watch?v=Ju1LYO9pkaI)
 
 **man or help**:
 
