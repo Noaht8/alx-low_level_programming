@@ -10,7 +10,7 @@ Resources
 
 **Read or watch**:
 
--   [Everything you need to know to start with C.pdf](https://alx-intranet.hbtn.io/rltoken/twmJy4JyAFEDV75jf0H9Bw "Everything you need to know to start with C.pdf") (*You do not have to learn everything in there yet, but make sure you read it entirely first and make sure you understand the slides: "comments", "Data types | Integer types", "Declaration", "Characters", "Arithmetic operators", "Variables assignments", "Comparisons", "Logical operators", "if, if...else", "while loops".*)
+-   [Everything you need to know to start with C.pdf](c.pdf) (*You do not have to learn everything in there yet, but make sure you read it entirely first and make sure you understand the slides: "comments", "Data types | Integer types", "Declaration", "Characters", "Arithmetic operators", "Variables assignments", "Comparisons", "Logical operators", "if, if...else", "while loops".*)
 -   [Keywords and identifiers](https://alx-intranet.hbtn.io/rltoken/58ThnAAxwJv5s_ceKMMPhw "Keywords and identifiers")
 -   [integers](https://alx-intranet.hbtn.io/rltoken/2sXkmDiD7BF7pNIOxMQWFA "integers")
 -   [Arithmetic Operators in C](https://alx-intranet.hbtn.io/rltoken/S-b9MN2iELhSEwCI093Vzw "Arithmetic Operators in C")
