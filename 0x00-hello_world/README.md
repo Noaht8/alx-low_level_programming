@@ -10,7 +10,7 @@ Resources
 
 **Read or watch**:
 
--   [Everything you need to know to start with C.pdf](https://alx-intranet.hbtn.io/rltoken/Mt-kMhgTyVzA2i5SYsWBwQ "Everything you need to know to start with C.pdf") (*You do not have to learn everything in there yet, but make sure you read it entirely first*)
+-   [Everything you need to know to start with C.pdf](c.pdf) (*You do not have to learn everything in there yet, but make sure you read it entirely first*)
 -   [Dennis Ritchie](https://alx-intranet.hbtn.io/rltoken/YWFrRob_-Yo-_NQikMLI-g "Dennis Ritchie")
 -   ["C" Programming Language: Brian Kernighan](https://alx-intranet.hbtn.io/rltoken/W4oygfMgAp5Hyc7o6QuSYQ ""C" Programming Language: Brian Kernighan")
 -   [Why C Programming Is Awesome](https://alx-intranet.hbtn.io/rltoken/WYdE1novaWa0yt5fzGvLBw "Why C Programming Is Awesome")
