@@ -24,6 +24,8 @@ Resources
 **man or help**:
 
 -   `ascii` (*You do not need to learn about `scanf`, `getc`, `getchar`, `EOF`, `EXIT_SUCCESS`, `time`, `rand`, `srand`, `RAND_MAX`, `for` loops, `do...while` loops, functions.*)
+## Additional resources
+- [Introduction to C (Basic structure and variables)](https://www.youtube.com/watch?v=LM6IjCbtpZA)
 
 Learning Objectives
 -------------------
