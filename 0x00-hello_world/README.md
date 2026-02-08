@@ -78,8 +78,8 @@ More Info
 
 To run the Betty linter just with command `betty <filename>`:
 
--   Go to the [Betty](https://alx-intranet.hbtn.io/rltoken/wQ4sMfsWfxvyfN67Sc11zA "Betty") repository
--   Clone the [repo](https://alx-intranet.hbtn.io/rltoken/wQ4sMfsWfxvyfN67Sc11zA "repo") to your local machine
+-   Go to the [Betty](https://github.com/alx-tools/Betty) repository
+-   Clone the [repo](https://github.com/alx-tools/Betty) to your local machine
 -   `cd` into the Betty directory
 -   Install the linter with `sudo ./install.sh`
 -   `emacs` or `vi` a new file called `betty`, and copy the script below:
