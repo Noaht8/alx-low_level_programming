@@ -11,9 +11,9 @@ Resources
 **Read or watch**:
 
 -   [Everything you need to know to start with C.pdf](c.pdf) (*You do not have to learn everything in there yet, but make sure you read it entirely first*)
--   [Dennis Ritchie](https://alx-intranet.hbtn.io/rltoken/YWFrRob_-Yo-_NQikMLI-g "Dennis Ritchie")
--   ["C" Programming Language: Brian Kernighan](https://alx-intranet.hbtn.io/rltoken/W4oygfMgAp5Hyc7o6QuSYQ ""C" Programming Language: Brian Kernighan")
--   [Why C Programming Is Awesome](https://alx-intranet.hbtn.io/rltoken/WYdE1novaWa0yt5fzGvLBw "Why C Programming Is Awesome")
+-   [Dennis Ritchie](https://en.wikipedia.org/wiki/Dennis_Ritchie)
+-   ["C" Programming Language: Brian Kernighan](https://www.youtube.com/watch?v=de2Hsvxaf8M)
+-   [Why C Programming Is Awesome](https://www.youtube.com/watch?v=smGalmxPVYc)
 -   [Learning to program in C part 1](https://alx-intranet.hbtn.io/rltoken/aE_pZLbexuLroHA0FmjLbw "Learning to program in C part 1")
 -   [Learning to program in C part 2](https://alx-intranet.hbtn.io/rltoken/3a5y1N-0FlTaPbKRxlRLlQ "Learning to program in C part 2")
 -   [Understanding C program Compilation Process](https://alx-intranet.hbtn.io/rltoken/idYJyVfQRZ9e5aljiT5UKg "Understanding C program Compilation Process")
