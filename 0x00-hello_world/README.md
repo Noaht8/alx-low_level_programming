@@ -16,10 +16,10 @@ Resources
 -   [Why C Programming Is Awesome](https://www.youtube.com/watch?v=smGalmxPVYc)
 -   [Learning to program in C part 1](https://www.youtube.com/watch?v=rk2fK2IIiiQ)
 -   [Learning to program in C part 2](https://www.youtube.com/watch?v=FwpP_MsZWnU)
--   [Understanding C program Compilation Process](https://alx-intranet.hbtn.io/rltoken/idYJyVfQRZ9e5aljiT5UKg "Understanding C program Compilation Process")
--   [Betty Coding Style](https://alx-intranet.hbtn.io/rltoken/Iu2Vb1CbDPMHuDJG1iILKA "Betty Coding Style")
--   [Hash-bang under the hood](https://alx-intranet.hbtn.io/rltoken/zwv5CHLybXN6KFmsjbu_tg "Hash-bang under the hood") (*Look at only after you finish consuming the other resources*)
--   [Linus Torvalds on C vs. C++](https://alx-intranet.hbtn.io/rltoken/JrokM8Pk6bd9wPqQvEfSAA "Linus Torvalds on C vs. C++") (*Look at only after you finish consuming the other resources*)
+-   [Understanding C program Compilation Process](https://www.youtube.com/watch?v=VDslRumKvRA)
+-   [Betty Coding Style](https://github.com/alx-tools/Betty/wiki)
+-   [Hash-bang under the hood](https://x.com/unix_byte/status/1024147947393495040?s=21) (*Look at only after you finish consuming the other resources*)
+-   [Linus Torvalds on C vs. C++](http://harmful.cat-v.org/software/c++/linus) (*Look at only after you finish consuming the other resources*)
 
 **man or help**:
 
