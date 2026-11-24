@@ -1,7 +1,8 @@
 #include <stdio.h>
 
-/*
- * main - main func to print 0 - 9 using putchar
+
+/**
+ * main - man function to print from 0 to 9
  *
  * Return: 0
  */
