@@ -1,5 +1,11 @@
 #include <stdio.h>
 
+
+/**
+ * main - man function to print from 0 to 9
+ *
+ * Return: 0
+ */
 int main(void)
 {
 	int i;
