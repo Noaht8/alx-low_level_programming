@@ -11,11 +11,11 @@ int main(void)
 
 	for (i = 48; i < 58; i++)
 	{
-		for (j = 48; j < 57; j++)
+		for (j = 48; j < 58; j++)
 		{
-			for (k = 48; k < 58; k++)
+			for (k = i; k < 58; k++)
 			{
-				for (l = j + 1; l < 58; l++)
+				for (l = (k == i) ? j + 1 : 48; l < 58; l++)
 				{
 					putchar(i);
 					putchar(j);
@@ -25,6 +25,7 @@ int main(void)
 					if (i == 57 && j == 56 && k == 57 && l == 57)
 						break;
 					putchar(',');
+					putchar(' ');
 				}
 			}
 		}
